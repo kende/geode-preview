@@ -3,20 +3,24 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        geode-preview
+        Geode.cool
       </h1>
       <h2 class="subtitle">
-        A preview site for Geode.cool
+        Meow
       </h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--green"></a>
+        <a
+          href="https://nuxtjs.org/"
+          target="_blank"
+          class="button--green">How to Delegate</a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
-          class="button--grey">GitHub</a>
+          class="button--grey">Community</a>
       </div>
     </div>
   </section>
