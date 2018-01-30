@@ -41,7 +41,10 @@
             <li><a href="https://www.dlive.io/#/user/geode.cool" target="_blank"><img src="~/assets/dlive-icon.png" alt="dlive icon"></a></li>
             <li><a href="https://www.facebook.com/geode.cool" target="_blank"><img src="~/assets/facebook-icon.png" alt="facebook icon"></a></li>
           </ul>
-          <div class="copyright"><a href="http://www.byzantine.network/">A Byzantine thing</a> | cc Byzantine Inc. 2018</div>
+          <div class="copyright">
+            <div class="byzantine-thing"><a href="http://www.byzantine.network/"><span class="highlight">A Byzantine thing</span></a> | Byzantine Inc. 2018</div>
+            <div class="creativecommons"><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span class="highlight">Creative Commons Attribution 4.0 International License</span></a>.</div>
+          </div>
         </div>
       </div>
       <div class="gallery-image">
@@ -163,6 +166,18 @@
 }
 .highlight {
   color: #f466ac;
+}
+.byzantine-thing {
+
+}
+.byzantine-thing a {
+  text-decoration: none;
+}
+.creativecommons {
+
+}
+.creativecommons a {
+  text-decoration: none;
 }
 .app-info .line {
   width: 100%;
