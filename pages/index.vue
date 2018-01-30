@@ -11,8 +11,18 @@
           <div class="slogan"><strong>&amp; reward</strong> creators with crypto</div>
         </div>
         <div class="input-group">
-          <input type="text" placeholder="your email">
-          <button>HODL🚀</button>
+          <!--<input type="text" placeholder="your email">-->
+          <!--<button>HODL🚀</button>-->
+          <form action="https://network.us17.list-manage.com/subscribe/post?u=02a6dbdcae7af4655c9b2ac03&amp;id=945f88b53f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+
+          	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="your email" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_02a6dbdcae7af4655c9b2ac03_945f88b53f" tabindex="-1" value=""></div>
+              <button><input type="submit" value="HODL🚀" name="hodl" id="mc-embedded-subscribe" class="button"></button>
+              </div>
+          </form>
+
         </div>
         <div class="gallery-img-mobile">
           <img src="~assets/geode-imgs-mobile.png" alt="geode logo">
@@ -79,7 +89,9 @@
   vertical-align: top;
   margin-right: -1px;
   padding: 16px;
+  margin-top: 10px;
   height: 40px;
+  width: 280px;
   border: 1px solid #616161;
 }
 .input-group button {
@@ -87,9 +99,25 @@
   vertical-align: top;
   height: 40px;
   width: 120px;
+  margin-top: 10px;
   background: linear-gradient(45deg, #b1fdd8, #96f3ff, #c7b0fd, #f3cbe4);
   border: 1px solid #616161;
   font-size: 1.1em;
+  color: #5a5a5a;
+  letter-spacing: 3px;
+}
+.input-group button input {
+  flex: 0 0 auto;
+  vertical-align: top;
+  height: 40px;
+  width: 120px;
+  padding: 0;
+  margin-left: -5px;
+  margin-top: 0;
+  background: transparent;
+  border: 0;
+  font-size: 1.1em;
+  font-family: "Avenir Next", Arial, Helvetica, sans-serif;
   color: #5a5a5a;
   letter-spacing: 3px;
 }
