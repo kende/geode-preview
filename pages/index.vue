@@ -168,7 +168,7 @@
   color: #f466ac;
 }
 .byzantine-thing {
-
+  padding-top: 40px;
 }
 .byzantine-thing a {
   text-decoration: none;
