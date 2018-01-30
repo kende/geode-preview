@@ -19,9 +19,9 @@
         </div>
         <div class="app-info-wrapper">
           <div class="app-info">
-            <p class="paragraph"><span class="linebreak">We're inviting 10,000 creators to join Steem!</span><span class="linebreak">Nominate the most talented people you know <span class="highlight">for a free account</span></span></p>
+            <p class="paragraph"><span class="linebreak">We're inviting 10,000 creators to join Steem!</span><span class="linebreak">Nominate the most talented people you know <a href="https://byzantine.typeform.com/to/ul7Woi"><span class="highlight">for a free account</span></a></span></p>
             <div class="line"></div>
-            <p class="paragraph">1 million Steem Power? <span class="highlight">Learn how to delegate</span></p>
+            <p class="paragraph">1 million Steem Power? <a href="https://busy.org/@geode.cool"><span class="highlight">Learn how to delegate</span></a></p>
           </div>
         </div>
         <div class="page-footer">
@@ -31,7 +31,7 @@
             <li><a href="https://www.dlive.io/#/user/geode.cool" target="_blank"><img src="~/assets/dlive-icon.png" alt="dlive icon"></a></li>
             <li><a href="https://www.facebook.com/geode.cool" target="_blank"><img src="~/assets/facebook-icon.png" alt="facebook icon"></a></li>
           </ul>
-          <div class="copyright">A Byzantine thing | cc Byzantine Inc. 2018</div>
+          <div class="copyright"><a href="http://www.byzantine.network/">A Byzantine thing</a> | cc Byzantine Inc. 2018</div>
         </div>
       </div>
       <div class="gallery-image">
@@ -129,6 +129,9 @@
 }
 .paragraph .linebreak {
   display: block;
+}
+.paragraph a{
+  text-decoration: none;
 }
 .highlight {
   color: #f466ac;
