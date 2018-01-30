@@ -10,7 +10,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'A preview site for Geode.cool' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
     ]
   },
   /*

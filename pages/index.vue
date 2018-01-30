@@ -26,10 +26,10 @@
         </div>
         <div class="page-footer">
           <ul class="media-list">
-            <li><a href="https://busy.org/@geode.cool"><img src="~/assets/busy-icon.png" alt="busy icon"></a></li>
-            <li><a href="https://d.tube/#!/c/geode.cool"><img src="~/assets/dtube-icon.png" alt="dtube icon"></a></li>
-            <li><a href="https://www.dlive.io/#/user/geode.cool"><img src="~/assets/dlive-icon.png" alt="dlive icon"></a></li>
-            <li><a href="https://www.facebook.com/geode.cool"><img src="~/assets/facebook-icon.png" alt="facebook icon"></a></li>
+            <li><a href="https://busy.org/@geode.cool" target="_blank"><img src="~/assets/busy-icon.png" alt="busy icon"></a></li>
+            <li><a href="https://d.tube/#!/c/geode.cool" target="_blank"><img src="~/assets/dtube-icon.png" alt="dtube icon"></a></li>
+            <li><a href="https://www.dlive.io/#/user/geode.cool" target="_blank"><img src="~/assets/dlive-icon.png" alt="dlive icon"></a></li>
+            <li><a href="https://www.facebook.com/geode.cool" target="_blank"><img src="~/assets/facebook-icon.png" alt="facebook icon"></a></li>
           </ul>
           <div class="copyright">A Byzantine thing | cc Byzantine Inc. 2018</div>
         </div>
