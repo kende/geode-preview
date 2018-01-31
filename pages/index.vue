@@ -43,7 +43,7 @@
           </ul>
           <div class="copyright">
             <div class="byzantine-thing"><a href="http://www.byzantine.network/"><span class="highlight">A Byzantine thing</span></a> | Byzantine Inc. 2018</div>
-            <div class="creativecommons"><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span class="highlight">Creative Commons Attribution 4.0 International License</span></a>.</div>
+            <div class="creativecommons"><br /><i class="fa fa-creative-commons" aria-hidden="true"></i>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span class="highlight">Creative Commons Attribution 4.0 International License</span></a>.</div>
             <div class="credits"><br />Featured images credit due to the always awesome <a rel="license" href="https://www.behance.net/beeple"><span class="highlight">Mike Winkelmann</span></a>.</div>
           </div>
         </div>
@@ -88,7 +88,7 @@
   width: 100%;
   max-width: 400px;
 }
-.input-group input {
+.input-group input[type=email] {
   flex: 1 1 auto;
   vertical-align: top;
   margin-right: -1px;
@@ -106,22 +106,15 @@
   margin-top: 10px;
   background: linear-gradient(45deg, #b1fdd8, #96f3ff, #c7b0fd, #f3cbe4);
   border: 1px solid #616161;
-  font-size: 1.1em;
-  color: #5a5a5a;
-  letter-spacing: 3px;
 }
-.input-group button input {
-  flex: 0 0 auto;
-  vertical-align: top;
-  height: 40px;
-  width: 120px;
-  padding: 0;
-  margin-left: -5px;
-  margin-top: 0;
+.input-group input[type=submit] {
+  height: 100%;
+  width: 100%;
   background: transparent;
   border: 0;
-  font-size: 1.1em;
   font-family: "Avenir Next", Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  font-weight: 500;
   color: #5a5a5a;
   letter-spacing: 3px;
 }
