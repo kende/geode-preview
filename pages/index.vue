@@ -31,7 +31,7 @@
           <div class="app-info">
             <p class="paragraph"><span class="linebreak">We're inviting 10,000 creators to join Steem!</span><span class="linebreak">Nominate the most talented people you know <a href="https://byzantine.typeform.com/to/ul7Woi"><span class="highlight">for a free account</span></a></span></p>
             <div class="line"></div>
-            <p class="paragraph">1 million Steem Power? <a href="https://busy.org/@geode.cool"><span class="highlight">Learn how to delegate</span></a></p>
+            <p class="paragraph">Let's get to 1 million Steem Power, together: <a href="https://busy.org/@geode.cool"><span class="highlight">Learn how to delegate</span></a></p>
           </div>
         </div>
         <div class="page-footer">
@@ -44,6 +44,7 @@
           <div class="copyright">
             <div class="byzantine-thing"><a href="http://www.byzantine.network/"><span class="highlight">A Byzantine thing</span></a> | Byzantine Inc. 2018</div>
             <div class="creativecommons"><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span class="highlight">Creative Commons Attribution 4.0 International License</span></a>.</div>
+            <div class="credits"><br />Featured images credit due to the always awesome <a rel="license" href="https://www.behance.net/beeple"><span class="highlight">Mike Winkelmann</span></a>.</div>
           </div>
         </div>
       </div>
@@ -168,7 +169,7 @@
   color: #f466ac;
 }
 .byzantine-thing {
-  padding-top: 40px;
+  padding-top: 30px;
 }
 .byzantine-thing a {
   text-decoration: none;
@@ -177,6 +178,12 @@
 
 }
 .creativecommons a {
+  text-decoration: none;
+}
+.credits {
+
+}
+.credits a {
   text-decoration: none;
 }
 .app-info .line {
